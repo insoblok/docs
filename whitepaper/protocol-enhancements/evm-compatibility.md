@@ -1,0 +1,5 @@
+# EVM Compatibility
+
+To build an ecosystem and have a faster adaptability and interoperability with other key players in the blockchain space we at InSoBlok carefully decided to be an EVM compatible blockchain which has a greater demand with a massive number of protocols already built on top of EVM blockchains. There are a lot of tools already available and a developer community who is well versed with the EVM based blockchains and same goes with a number of protocols and projects already built on the EVM chains. This EVM compatibility opens the avenue for existing developers and projects to migrate easily to the InSoBlok ecosystem if they want to do a complete transition or if they want to expand on the network of chains supported by the end project.
+
+By embracing EVM compatibility, InSoblok strategically positions itself as an attractive option for existing developers and projects looking to migrate seamlessly. Whether opting for a complete transition or expanding their network of supported chains, developers and projects already entrenched in the EVM landscape find InSoblok to be a conducive and compatible environment for their endeavors.
