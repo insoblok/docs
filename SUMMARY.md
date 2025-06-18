@@ -25,3 +25,7 @@
   * [Key Advantages of Dynamic Sovereignty](whitepaper/dynamic-sovereignty-the-foundation-of-self-sovereign-ownership/key-advantages-of-dynamic-sovereignty.md)
 * [Dynamic Sovereignity Architecture](whitepaper/dynamic-sovereignity-architecture.md)
 * [Development Tools](whitepaper/development-tools.md)
+
+***
+
+* [White Paper with TasteScore V.01](white-paper-with-tastescore-v.01.md)
