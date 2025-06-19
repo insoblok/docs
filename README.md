@@ -17,15 +17,13 @@ layout:
 
 The digital economy is at an inflection point. For years, creators, consumers, and brands have operated within walled gardens governed by centralized platforms-monetizing engagement without enabling ownership, distributing content without transparent value attribution, and shaping culture while limiting individual economic power. These legacy systems extract value at scale but return minimal control to the very users who generate it.
 
+InSoBlok AI envisions a new reality: a blockchain-powered ecosystem where **influence becomes capital, ownership is absolute, and intelligent systems power creative expression at scale**.
+
 
 
 {% embed url="https://www.youtube.com/watch?v=xeg5sH4MjfQ" %}
 
 
-
-InSoBlok AI envisions a new reality: a blockchain-powered ecosystem where **influence becomes capital, ownership is absolute, and intelligent systems power creative expression at scale**.
-
-Insert New Video Here
 
 At its core, InSoBlok AI is not simply a platform, but a decentralized infrastructure stack purpose-built to enable the **next era of creator-led economies**. Designed as a high-performance Layer 1 blockchain, it fuses **AI-powered personalization**, **SocialFi primitives**, and **tokenized Real World Assets (RWAs)** into a unified protocol that empowers creators, communities, and enterprises to transact, collaborate, and grow on their own terms.
 
