@@ -19,9 +19,7 @@ The digital economy is at an inflection point. For years, creators, consumers, a
 
 InSoBlok AI envisions a new reality: a blockchain-powered ecosystem where **influence becomes capital, ownership is absolute, and intelligent systems power creative expression at scale**.
 
-
-
-{% embed url="https://www.youtube.com/watch?v=xeg5sH4MjfQ" %}
+{% embed url="https://www.youtube.com/watch?v=ZUiuMI_8uYQ" %}
 
 
 
