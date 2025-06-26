@@ -68,6 +68,7 @@
 
 ***
 
+* [Insoblok Monitization](insoblok-monitization.md)
 * [Development Tools & SDKs](development-tools-and-sdks/README.md)
   * [Core Smart Contract Development Frameworks](development-tools-and-sdks/core-smart-contract-development-frameworks.md)
   * [Code Quality, Linting & Security Analysis](development-tools-and-sdks/code-quality-linting-and-security-analysis.md)
